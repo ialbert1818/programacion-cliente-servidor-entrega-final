@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 22 18:47:52 CST 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-019d-b7ce-bbeb-0000176115e8 
+on database directory /Users/ivangonz/NetBeansProjects/ProyectoFinal-IvanGonzalezHernandez/FacturacionDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6d5380c2 
+Loaded from file:/Users/ivangonz/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=25.0.1+8-LTS
+user.dir=/Users/ivangonz/NetBeansProjects/ProyectoFinal-IvanGonzalezHernandez
+os.name=Mac OS X
+os.arch=x86_64
+os.version=26.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
