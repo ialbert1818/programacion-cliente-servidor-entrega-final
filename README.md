@@ -1,0 +1,4 @@
+-Importar ambos proyectos tanto el Cliente como el Servidor en NetBeans
+-Primero se debe ejecutar Servidor.java del Servidor
+-Luego se debe ejecutar ClienteApp.java del Cliente
+-Ingresar credenciales Usuario:admin Password:1234 o Usuario:vendedor Password:vendedor
